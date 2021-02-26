@@ -1,0 +1,48 @@
+https://www.yakitome.com/tts/text_to_speech
+Lauren voice, default settings
+
+
+Color Creater
+
+solid
+slider
+rainbow
+revolve
+rotate
+flicker
+mix test
+
+red
+green
+blue
+magenta
+cyan
+yellow
+amber
+orange
+purple
+pink
+aquamarine
+seafoam green
+lavender
+
+no color
+
+set brightness
+new brightness set
+default values loaded
+
+
+
+color value set
+custom color
+
+
+find color
+
+correct
+try again
+
+
+
+
